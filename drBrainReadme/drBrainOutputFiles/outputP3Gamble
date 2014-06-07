@@ -1,0 +1,163 @@
+
+
+DDDDDDDDDDDDD
+D DD DDDDDDDD
+D D  B   BBBD
+D BBBBBBBBB D
+D S  BBBB  DD
+DDD  BBB  DDD
+DDDDD DDDDDDD
+DDDDD   DDDDD
+DDDDDDDDDDDDD
+Problem 3 filter:
+Dr Brain Filtering
+Maze description:
+Number of brains:
+20
+you have to make at least 20 action moves
+Initial P2:  1 0 2 1 0 1 0 
+Solution:
+M:  5 2 4 4 3 5 5 
+P1:  0 3 4 3 4 2 4 
+P2:  1 0 2 1 0 1 0 
+(x,y) = (7, 4)
+Orientation: 0
+DDDDDDDDDDDDD
+D DD DDDDDDDD
+D D         D
+D           D
+D          DD
+DDD       DDD
+DDDDD DDDDDDD
+DDDDD   DDDDD
+DDDDDDDDDDDDD
+
+Solution:
+M:  5 2 4 4 3 5 5 
+P1:  3 0 4 3 4 2 4 
+P2:  1 0 2 1 0 1 0 
+(x,y) = (7, 4)
+Orientation: 0
+DDDDDDDDDDDDD
+D DD DDDDDDDD
+D D         D
+D           D
+D          DD
+DDD       DDD
+DDDDD DDDDDDD
+DDDDD   DDDDD
+DDDDDDDDDDDDD
+
+Solution:
+M:  5 2 4 4 3 5 5 
+P1:  3 4 0 3 4 2 4 
+P2:  1 0 2 1 0 1 0 
+(x,y) = (7, 4)
+Orientation: 0
+DDDDDDDDDDDDD
+D DD DDDDDDDD
+D D         D
+D           D
+D          DD
+DDD       DDD
+DDDDD DDDDDDD
+DDDDD   DDDDD
+DDDDDDDDDDDDD
+
+Solution:
+M:  5 2 4 4 3 5 5 
+P1:  3 4 3 0 4 2 4 
+P2:  1 0 2 1 0 1 0 
+(x,y) = (7, 4)
+Orientation: 0
+DDDDDDDDDDDDD
+D DD DDDDDDDD
+D D         D
+D           D
+D          DD
+DDD       DDD
+DDDDD DDDDDDD
+DDDDD   DDDDD
+DDDDDDDDDDDDD
+
+Solution:
+M:  5 2 4 4 3 5 5 
+P1:  3 4 3 4 0 2 4 
+P2:  1 0 2 1 0 1 0 
+(x,y) = (7, 4)
+Orientation: 0
+DDDDDDDDDDDDD
+D DD DDDDDDDD
+D D         D
+D           D
+D          DD
+DDD       DDD
+DDDDD DDDDDDD
+DDDDD   DDDDD
+DDDDDDDDDDDDD
+
+Solution:
+M:  5 2 4 4 3 5 5 
+P1:  3 4 3 4 2 0 4 
+P2:  1 0 2 1 0 1 0 
+(x,y) = (7, 4)
+Orientation: 0
+DDDDDDDDDDDDD
+D DD DDDDDDDD
+D D         D
+D           D
+D          DD
+DDD       DDD
+DDDDD DDDDDDD
+DDDDD   DDDDD
+DDDDDDDDDDDDD
+
+Solution:
+M:  5 2 4 4 3 5 5 
+P1:  3 4 3 4 2 4 0 
+P2:  1 0 2 1 0 1 0 
+(x,y) = (7, 4)
+Orientation: 0
+DDDDDDDDDDDDD
+D DD DDDDDDDD
+D D         D
+D           D
+D          DD
+DDD       DDD
+DDDDD DDDDDDD
+DDDDD   DDDDD
+DDDDDDDDDDDDD
+
+Solution:
+M:  5 4 4 3 5 3 5 
+P1:  3 4 3 4 2 4 2 
+P2:  1 0 2 1 0 1 0 
+(x,y) = (7, 4)
+Orientation: 3
+DDDDDDDDDDDDD
+D DD DDDDDDDD
+D D         D
+D           D
+D          DD
+DDD       DDD
+DDDDD DDDDDDD
+DDDDD   DDDDD
+DDDDDDDDDDDDD
+
+Solution:
+M:  3 4 1 5 5 3 5 
+P1:  4 2 4 4 2 1 3 
+P2:  1 0 2 1 0 1 0 
+(x,y) = (8, 1)
+Orientation: 1
+DDDDDDDDDDDDD
+D DD DDDDDDDD
+D D         D
+D           D
+D          DD
+DDD       DDD
+DDDDD DDDDDDD
+DDDDD   DDDDD
+DDDDDDDDDDDDD
+
+All possibilities checked for P1!

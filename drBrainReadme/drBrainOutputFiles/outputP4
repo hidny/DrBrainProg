@@ -1,0 +1,63 @@
+
+
+DDDDDDDDD
+DBBBBDDDD
+DBDBBDDDD
+DBDBBDDDD
+DBBBBBBDD
+DDBBBDBDD
+DDBBBDBDD
+DDRBBBBDD
+DDBBDB DD
+DDBBDB DD
+DDBBBB DD
+DDDDDDDDD
+DDDDDDDDD
+Problem 4 filter:
+Dr Brain Filtering
+Maze description:
+Number of brains:
+39
+you have to make at least 38 action moves
+Initial P2:  1 0 1 0 1 0 2 
+Solution:
+M:  5 5 2 4 5 3 4 
+P1:  4 4 4 4 3 4 1 
+P2:  1 0 1 0 1 0 2 
+(x,y) = (3, 10)
+Orientation: 2
+DDDDDDDDD
+D    DDDD
+D D  DDDD
+D D  DDDD
+D      DD
+DD   D DD
+DD   D DD
+DD     DD
+DD  D  DD
+DD  D  DD
+DD     DD
+DDDDDDDDD
+DDDDDDDDD
+
+Solution:
+M:  5 5 2 4 5 3 5 
+P1:  4 4 4 4 3 4 1 
+P2:  1 0 1 0 1 0 2 
+(x,y) = (1, 10)
+Orientation: 2
+DDDDDDDDD
+D    DDDD
+D D  DDDD
+D D  DDDD
+D      DD
+DD   D DD
+DD   D DD
+DD     DD
+DD  D  DD
+DD  D  DD
+DD     DD
+DDDDDDDDD
+DDDDDDDDD
+
+All possibilities checked for P1!

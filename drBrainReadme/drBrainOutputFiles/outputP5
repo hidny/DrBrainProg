@@ -1,0 +1,63 @@
+
+
+DDDDDDDDD
+DDDDDDDDD
+DBBBBBBBD
+DBBBBBBBD
+DBDDBDDBD
+DBBBRBBBD
+DBBBBBBBD
+DBDDBDDBD
+DBBBBBBBD
+DBBBBBBBD
+DDDDDDDDD
+DDDDDDDDD
+DDDDDDDDD
+Problem 5 filter:
+Dr Brain Filtering
+Maze description:
+Number of brains:
+48
+you have to make at least 47 action moves
+Initial P2:  1 0 1 0 1 0 3 
+Solution:
+M:  5 3 5 1 5 5 5 
+P1:  4 4 4 2 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 6)
+Orientation: 2
+DDDDDDDDD
+DDDDDDDDD
+D       D
+D       D
+D DD DD D
+D       D
+D       D
+D DD DD D
+D       D
+D       D
+DDDDDDDDD
+DDDDDDDDD
+DDDDDDDDD
+
+Solution:
+M:  5 5 5 1 5 5 5 
+P1:  4 4 4 2 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 6)
+Orientation: 2
+DDDDDDDDD
+DDDDDDDDD
+D       D
+D       D
+D DD DD D
+D       D
+D       D
+D DD DD D
+D       D
+D       D
+DDDDDDDDD
+DDDDDDDDD
+DDDDDDDDD
+
+All possibilities checked for P1!

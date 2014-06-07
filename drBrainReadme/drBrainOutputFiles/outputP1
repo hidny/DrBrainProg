@@ -1,0 +1,9875 @@
+
+
+
+DDDDDDDDDDDD
+DBBBBDDBBBBD
+DBDDBDDBDDBD
+DBDDBDDBDDBD
+DBBBBBBRBBBD
+DBDDBDDBDDBD
+DBDDBDDBDDBD
+DBBBBDDBBBBD
+DDDDDDDDDDDD
+Dr Brain Filtering
+Maze description:
+Number of brains:
+42
+you have to make at least 41 action moves
+Initial P2:  1 0 1 0 1 0 3 
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  0 0 2 4 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  0 0 4 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  0 0 4 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  0 0 4 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  0 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  0 2 0 4 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  0 2 4 0 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  0 2 4 4 0 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  0 2 4 4 4 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  0 2 4 4 4 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 4 5 3 5 4 5 
+P1:  0 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  0 4 0 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  0 4 0 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  0 4 0 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  0 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  0 4 4 0 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  0 4 4 0 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  0 4 4 0 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  0 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  0 4 4 4 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  0 4 4 4 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  0 4 4 4 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  0 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  0 4 4 4 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  0 4 4 4 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  0 4 4 4 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  0 4 4 4 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  0 4 4 4 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  0 4 4 4 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  0 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  0 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 0 0 4 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 0 4 0 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 0 4 4 0 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 0 4 4 4 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 0 4 4 4 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 4 5 3 5 4 5 
+P1:  2 0 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 2 3 4 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 3 2 4 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  2 3 4 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  2 3 4 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  2 3 4 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  2 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 0 0 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 0 4 0 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 0 4 4 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 0 4 4 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 4 5 3 5 4 5 
+P1:  2 4 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 2 3 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  2 5 5 2 4 5 5 
+P1:  2 4 2 4 4 4 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (10, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 3 2 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 0 0 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 0 4 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 0 4 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 4 5 3 5 4 5 
+P1:  2 4 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 2 3 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 3 2 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 4 0 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 4 0 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 4 5 3 5 4 5 
+P1:  2 4 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 4 2 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 4 3 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 4 4 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 4 5 3 5 4 5 
+P1:  2 4 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 4 5 3 5 4 5 
+P1:  2 4 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 7)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 5 2 2 5 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 5 3 3 5 
+P1:  2 4 4 4 4 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 4 4 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  2 4 4 4 4 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 7)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 5 2 2 5 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 5 3 3 5 
+P1:  2 4 4 4 4 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  3 2 2 4 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  3 2 4 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  3 2 4 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  3 2 4 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  3 2 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  3 3 3 4 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  3 3 4 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 0 0 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 0 0 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 0 0 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 0 0 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 0 4 0 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 0 4 0 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 0 4 0 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 0 4 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 0 4 4 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 0 4 4 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 0 4 4 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 0 4 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 0 4 4 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 0 4 4 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 0 4 4 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 0 4 4 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 0 4 4 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 0 4 4 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 0 4 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 0 4 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 2 3 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 2 3 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 2 3 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 2 3 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 3 2 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 3 2 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 3 2 4 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 3 2 4 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  3 5 5 2 4 5 5 
+P1:  4 3 4 4 4 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 0 0 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 0 0 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 0 0 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 0 0 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 0 4 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 0 4 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 0 4 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 0 4 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 0 4 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 0 4 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 0 4 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 0 4 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 0 4 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 0 4 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 0 4 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 0 4 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 2 3 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 2 3 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 2 3 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 2 3 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 3 2 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 3 2 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 3 2 4 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 3 2 4 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 0 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 0 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 0 0 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 0 0 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 0 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 0 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 0 2 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 0 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 0 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 0 2 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 0 4 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 0 4 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 2 0 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 2 0 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 2 0 0 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 2 0 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 2 0 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 2 0 4 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 2 2 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 2 2 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 2 2 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 2 3 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 2 3 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 2 3 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 2 3 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 2 4 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 2 4 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 2 4 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 2 4 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 2 4 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 2 4 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 2 4 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 2 4 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 2 4 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 3 2 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 3 2 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 3 2 2 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 3 2 4 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 3 3 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 3 3 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 3 3 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 4 0 0 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 4 0 2 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 4 2 0 0 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 4 2 2 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 4 2 3 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 4 3 2 2 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 4 3 3 3 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 2 5 5 
+P1:  4 4 4 4 3 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 2 4 5 5 
+P1:  4 4 4 4 3 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  4 5 5 3 3 5 5 
+P1:  4 4 4 4 3 4 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (0, 4)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  0 5 5 4 2 5 5 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 0 5 4 2 5 5 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 0 4 2 5 5 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 0 2 5 5 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 0 5 5 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 0 5 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 4 5 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 1)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 0 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 1 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (5, 4)
+Orientation: 0
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 2 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 3
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 3 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (4, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 4 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (7, 4)
+Orientation: 1
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+Solution:
+M:  5 5 4 2 5 5 5 
+P1:  4 4 4 4 4 3 4 
+P2:  1 0 1 0 1 0 3 
+(x,y) = (6, 1)
+Orientation: 2
+DDDDDDDDDDDD
+D    DD    D
+D DD DD DD D
+D DD DD DD D
+D          D
+D DD DD DD D
+D DD DD DD D
+D    DD    D
+DDDDDDDDDDDD
+
+All possibilities checked for P1!
